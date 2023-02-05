@@ -1,6 +1,6 @@
 ---
 title: "New Poetry"
 layout: default
-permalink: Poetry/newpoetry
+permalink: Utalisent/newpoetry
 ---
 This will be a new poetry website.
